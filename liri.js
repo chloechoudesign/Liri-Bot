@@ -48,27 +48,30 @@ if (command === 'spotify-this-song'){
   });
 
   
-  // var nodeArgs = process.argv;
+  var nodeArgs = process.argv;
   
-  // var songName = '';
+  var songName = '';
 
-  // for (var i = 3; i < nodeArgs.length; i++) {
+  for (var i = 3; i < nodeArgs.length; i++) {
     
-  //   if (i > 3 && i < nodeArgs.length) {
-  //     movieName = movieName + "+" + nodeArgs[i];
-  //   } else {
-  //     movieName += nodeArgs[i];
-  //   }
-  // }
+    if (i > 3 && i < nodeArgs.length) {
+      songName = songName + "+" + nodeArgs[i];
+    } else {
+      songName += nodeArgs[i];
+    }
+  }
 
-  // var queryUrl = 'https://api.spotify.com/v1/search?query=' + songName + '&type=track&offset=20&limit=20';
+  // console.log(songName);
 
-  spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
+  spotify.search({ type: 'track', limit: 1, query: songName, }, function(err, data) {
     if (err) {
       return console.log('Error occurred: ' + err);
     }
-   
-    console.log(data); 
+    // console.log(data.tracks);
+    console.log('Song: ' + data.tracks.items[0].name); 
+    console.log('Artist: ' + data.tracks.items[0].artists[0].name); 
+    console.log('Album: ' + data.tracks.items[0].album.name); 
+    console.log('Link: ' + data.tracks.items[0].external_urls.spotify); 
   });
 
 }; // END SPOTIFY

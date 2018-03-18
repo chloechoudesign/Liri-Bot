@@ -1,11 +1,11 @@
 # Meet LIRI!
 
-## Overview!
+## Overview
 - LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data based on one of four commands:
-* `my-tweets`
-* `spotify-this-song`
-* `movie-this`
-* `do-what-it-says`
+`my-tweets`
+`spotify-this-song`
+`movie-this`
+`do-what-it-says`
 
 ## Getting Started
 - Clone down repo.
@@ -37,7 +37,7 @@
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-  * Or if no movie is passed through, it will default to "Mr. Nobody"
+  * Or if no movie is passed through, it will default to "Mr. Nobody".
 
 4. `node liri.js do-what-it-says`
   * Takes the text from random.txt and runs the song through spotify-this-song command.

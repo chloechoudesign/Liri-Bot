@@ -19,23 +19,23 @@
 
 2. `node liri.js spotify-this-song <song name>`
   * Shows the following information about the song in terminal/bash window.
-    * Artist(s)
-    * The song's name
-    * A preview link of the song from Spotify
-    * The album that the song is from
+  * Artist(s)
+  * The song's name
+  * A preview link of the song from Spotify
+  * The album that the song is from
   ![htsdms10b8](https://user-images.githubusercontent.com/28972721/37572738-bb80551a-2acc-11e8-8d4c-2339d413b736.gif)
 
 3. `node liri.js movie-this <movie name>`
   * Shows the following information in terminal/bash.
-    * Title of the movie.
-    * Year the movie came out.
-    * IMDB Rating of the movie.
-    * Country where the movie was produced.
-    * Language of the movie.
-    * Plot of the movie.
-    * Actors in the movie.
-    * Rotten Tomatoes Rating.
-    * Rotten Tomatoes URL.
+  * Title of the movie.
+  * Year the movie came out.
+  * IMDB Rating of the movie.
+  * Country where the movie was produced.
+  * Language of the movie.
+  * Plot of the movie.
+  * Actors in the movie.
+  * Rotten Tomatoes Rating.
+  * Rotten Tomatoes URL.
   ![nbq29amjve](https://user-images.githubusercontent.com/28972721/37572734-b0239a10-2acc-11e8-930c-950631f13eca.gif)
 
 4. `node liri.js do-what-it-says`

@@ -11,7 +11,7 @@ if (command === 'my-tweets'){
 } else if (command === 'do-what-it-says'){
   doWhatItSays();
 } else {
-  console.log('Not a valid command')
+  console.log('Not a valid command!')
 };
 
 function myTweets(){

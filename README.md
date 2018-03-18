@@ -23,8 +23,6 @@
     * A preview link of the song from Spotify
     * The album that the song is from
 
-  * Or if no song is passed through, it will default to "The Sign" by Ace of Base.
-
 3. `node liri.js movie-this <movie name>`
   * Shows the following information in terminal/bash.
     * Title of the movie.
@@ -37,10 +35,8 @@
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-  * Or if no movie is passed through, it will default to "Mr. Nobody".
-
 4. `node liri.js do-what-it-says`
-  * Takes the text from random.txt and runs the song through spotify-this-song command.
+  * Takes the text from random.txt and runs the song "I Want It That Way" through spotify-this-song command.
 
 ## Technologies Used
 - Node.js

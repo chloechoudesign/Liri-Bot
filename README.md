@@ -44,8 +44,9 @@
 
 ## Technologies Used
 - Node.js
-- Twitter NPM Package 
-- Spotify NPM Package 
-- OMDb NPM Package 
+- Request NPM Package https://www.npmjs.com/package/request
+- Twitter NPM Package https://www.npmjs.com/package/twitter
+- Spotify NPM Package https://www.npmjs.com/package/node-spotify-api
+- OMDb API http://www.omdbapi.com/
 
 

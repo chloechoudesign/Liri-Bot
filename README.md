@@ -45,12 +45,8 @@
 - OMDb API http://www.omdbapi.com/
 
 <br/>
+![nbq29amjve](https://user-images.githubusercontent.com/28972721/37572734-b0239a10-2acc-11e8-930c-950631f13eca.gif)
 ![ynrnvyuyiq](https://user-images.githubusercontent.com/28972721/37572736-b5802b36-2acc-11e8-8574-1d5509945c63.gif)
 ![htsdms10b8](https://user-images.githubusercontent.com/28972721/37572738-bb80551a-2acc-11e8-8d4c-2339d413b736.gif)
-![nbq29amjve](https://user-images.githubusercontent.com/28972721/37572734-b0239a10-2acc-11e8-930c-950631f13eca.gif)
-![t2rn7bn2cc](https://user-images.githubusercontent.com/28972721/37572741-c232445e-2acc-11e8-8df4-9e79c6b7ffde.gif)
-
-
-
 
 

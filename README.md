@@ -15,7 +15,7 @@
 ## What Each Command Does
 1. `node liri.js my-tweets`
   * Displays user's last 20 tweets and when they were created in terminal/bash window.
-  <img width="600" alt="ynrnvyuyiq" src="https://user-images.githubusercontent.com/28972721/37572819-1b4dfe92-2ace-11e8-972d-d52e99a28687.gif">
+<img width="600" alt="ynrnvyuyiq" src="https://user-images.githubusercontent.com/28972721/37572819-1b4dfe92-2ace-11e8-972d-d52e99a28687.gif">
 
 2. `node liri.js spotify-this-song <song name>`
   * Shows the following information about the song in terminal/bash window.
@@ -35,9 +35,11 @@
       * Language of the movie.
       * Plot of the movie.
       * Actors in the movie.
+<img width="600" alt="nbq29amjve" src="https://user-images.githubusercontent.com/28972721/37572820-1b60213a-2ace-11e8-8497-f292c4e6854d.gif">
 
 4. `node liri.js do-what-it-says`
   * Takes the text from random.txt and runs the song "I Want It That Way" through spotify-this-song command.
+<img width="600" alt="t2rn7bn2cc" src="https://user-images.githubusercontent.com/28972721/37572817-1aa08bfe-2ace-11e8-8613-4502d75453b7.gif">
 
 ## Technologies Used
 - Node.js
@@ -46,13 +48,13 @@
 - Spotify NPM Package https://www.npmjs.com/package/node-spotify-api
 - OMDb API http://www.omdbapi.com/
 
-<br/>
 
 
 
 
 
-<img width="600" alt="nbq29amjve" src="https://user-images.githubusercontent.com/28972721/37572820-1b60213a-2ace-11e8-8497-f292c4e6854d.gif">
 
-<img width="600" alt="t2rn7bn2cc" src="https://user-images.githubusercontent.com/28972721/37572817-1aa08bfe-2ace-11e8-8613-4502d75453b7.gif">
+
+
+
 
